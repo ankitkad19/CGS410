@@ -1,0 +1,31 @@
+lang,metric,real_mean,rand_mean,U,p_value,effect_size_r,effect_label,direction
+English,max_arity,4.7709,2.7288,6716054,0.00E+00,0.4627,medium,real > random
+English,mean_arity,0.8875,0.8875,8295400,1.74E-186,0.3364,medium,equal
+English,max_depth,3.6478,6.7679,2087568.5,0.00E+00,0.833,large,real < random
+English,mean_depth,1.9264,3.5356,1862505,0.00E+00,0.851,large,real < random
+English,density,0.1555,0.1555,8295400,1.74E-186,0.3364,medium,equal
+English,avg_path_length,2.8525,3.8146,3468752,0.00E+00,0.7225,large,real < random
+French,max_arity,5.4321,3.1542,1692447,0.00E+00,0.8646,large,real > random
+French,mean_arity,0.9451,0.9451,10655200,2.18E-37,0.1476,small,equal
+French,max_depth,4.5857,8.987,4103783.5,0.00E+00,0.6717,large,real < random
+French,mean_depth,2.4118,4.6838,3884502.5,0.00E+00,0.6892,large,real < random
+French,density,0.0596,0.0596,10655200,2.18E-37,0.1476,small,equal
+French,avg_path_length,3.5482,4.9083,7605749,6.10E-252,0.3915,medium,real < random
+German,max_arity,5.3106,2.9734,1667093.5,0.00E+00,0.8666,large,real > random
+German,mean_arity,0.9311,0.9311,11640150,2.58E-09,0.0688,negligible,equal
+German,max_depth,3.8223,7.6421,4634634.5,0.00E+00,0.6292,large,real < random
+German,mean_depth,2.0307,3.9931,4507832,0.00E+00,0.6394,large,real < random
+German,density,0.0767,0.0767,11640150,2.58E-09,0.0688,negligible,equal
+German,avg_path_length,3.0984,4.24,7582754,2.70E-254,0.3934,medium,real < random
+Hindi,max_arity,5.8656,3.0813,770347.5,0.00E+00,0.9384,large,real > random
+Hindi,mean_arity,0.9421,0.9421,8752250,1.41E-148,0.2998,small,equal
+Hindi,max_depth,4.2534,8.2616,5215935,0.00E+00,0.5827,large,real < random
+Hindi,mean_depth,2.2031,4.3141,4839761,0.00E+00,0.6128,large,real < random
+Hindi,density,0.0627,0.0627,8752250,1.41E-148,0.2998,small,equal
+Hindi,avg_path_length,3.3122,4.5459,8847146.5,3.01E-141,0.2922,small,real < random
+Spanish,max_arity,5.1706,3.2156,2953447.5,0.00E+00,0.7637,large,real > random
+Spanish,mean_arity,0.9485,0.9485,11521700,1.23E-11,0.0783,negligible,equal
+Spanish,max_depth,5.002,9.5209,3477160,0.00E+00,0.7218,large,real < random
+Spanish,mean_depth,2.6169,4.9588,3334714.5,0.00E+00,0.7332,large,real < random
+Spanish,density,0.0561,0.0561,11521700,1.23E-11,0.0783,negligible,equal
+Spanish,avg_path_length,3.7586,5.175,5930129.5,0.00E+00,0.5256,large,real < random
